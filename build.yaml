@@ -19,4 +19,4 @@
 ---
 include:
   - board: pillbug
-    shield: nibble
+    shield: BB40
